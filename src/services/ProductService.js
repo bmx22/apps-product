@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const PRODUCT_API_BASE_URL = "https://uxlg6ox54h.execute-api.us-east-2.amazonaws.com/dev/products";
+const PRODUCT_API_BASE_URL = "https://uxlg6ox54h.execute-api.us-west-1.amazonaws.com/dev/products";
 
 class ProductService {
 
